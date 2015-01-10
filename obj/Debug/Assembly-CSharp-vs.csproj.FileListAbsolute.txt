@@ -1,0 +1,14 @@
+C:\development\TheChase\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\development\TheChase\Temp\bin\Debug\Assembly-CSharp.dll
+C:\development\TheChase\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\development\TheChase\Temp\bin\Debug\Assembly-UnityScript-firstpass.dll
+C:\development\TheChase\Temp\bin\Debug\UnityEditor.dll
+C:\development\TheChase\Temp\bin\Debug\UnityEngine.dll
+C:\development\TheChase\Temp\bin\Debug\UnityEngine.UI.dll
+C:\development\TheChase\Temp\bin\Debug\Mono.Cecil.dll
+C:\development\TheChase\Temp\bin\Debug\nunit.framework.dll
+C:\development\TheChase\Temp\bin\Debug\Unity.DataContract.dll
+C:\development\TheChase\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\development\TheChase\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\development\TheChase\obj\Debug\Assembly-CSharp.dll
+C:\development\TheChase\obj\Debug\Assembly-CSharp.pdb
