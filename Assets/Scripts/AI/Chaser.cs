@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class Chaser : MonoBehaviour {
@@ -31,7 +31,7 @@ public class Chaser : MonoBehaviour {
 	
 	public void ChasePlayer() {
 		if (!started) return;
-		Chase(GameObject.FindGameObjectWithTag("Player").transform);
+		Chase(GameObject.FindGameObjectWithTag("player").transform);
 	}
 	
 	public void Chase(Transform target) {
